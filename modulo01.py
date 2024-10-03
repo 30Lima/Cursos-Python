@@ -1,4 +1,4 @@
-#Desafio do curso "Python para Data Science"
+#Desafios do curso "Python para Data Science" da Alura
 
 """
 1. Imprima a frase Escola de Dados da Alura!.
